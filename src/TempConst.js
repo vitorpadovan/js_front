@@ -1,0 +1,32 @@
+export const Eventos1 = [
+  {
+    id: 1,
+    nome: "Cerco do Jericó",
+    data: "2022-2-04",
+    missao: "Ribeirão Preto",
+    local: "Ribeirania",
+    img: "https://picsum.photos/1080/1080",
+    descricao: "Qualquer descrição",
+    saveTheDate: false,
+  },
+  {
+    id: 2,
+    nome: "Rebanhão",
+    data: "2022-02-18",
+    missao: "SPA",
+    local: "Novo Shopping",
+    img: "https://picsum.photos/1080/1080",
+    descricao: "Qualquer descrição",
+    saveTheDate: false,
+  },
+  {
+    id: 3,
+    nome: "Kairos",
+    data: "2022-03-12",
+    missao: "Franca",
+    local: "Ribeirania",
+    img: "https://picsum.photos/1080/1080",
+    descricao: "Qualquer descrição",
+    saveTheDate: true,
+  },
+];
